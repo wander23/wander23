@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=UMH1OzCyIhM&t=83s) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 <p>
   <h1 align="center">Hello there, I'm PAKhoa 👋</h1>
 </p>
@@ -16,7 +16,7 @@
 - 🥅 Goals: Data Engineer <br>
 - 💬 Ask me about anything, I am happy to help :smile: <br>
 - 📬 Contact me: <a href='anhkhoa24082001@gmail.com'>anhkhoa24082001@gmail.com</a>  <br>
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try my best.
 
 <h2> 🧰 Languages: </h2>
 
