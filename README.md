@@ -39,5 +39,3 @@
   <img width="53%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuanBlue&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
-@gmail.com'>quannguyenthanh558@gmail.com</a>  <br>
-- 🧗 I try to: Go beyond and push the bounds
