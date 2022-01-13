@@ -16,7 +16,6 @@
 - 🥅 Goals: Data Engineer <br>
 - 💬 Ask me about anything, I am happy to help :smile: <br>
 - 📬 Contact me: <a href='anhkhoa24082001@gmail.com'>anhkhoa24082001@gmail.com</a>  <br>
-- 🧗 I try my best.
 
 <h2> 🧰 Languages: </h2>
 
