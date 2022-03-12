@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/R.4210db82c50b1c9082030e4467ba7522?rik=A11yqrGf8fRkDw&pid=ImgRaw&r=0"> </img>
+<img src="https://edulinks.vn/wp-content/uploads/2020/10/DSC-Article-DSC-Roles-DataScientist.png"> </img>
 <p>
   <h1 align="center">Hello there, I'm Phung Anh Khoa</h1>
 </p>
