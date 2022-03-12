@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/anhkhoa.khoa.71/"><img style="height:55px;"  src="https://www.transparentpng.com/thumb/facebook-logo-png/background-facebook-logo-5.png" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/wander0842/"><img style="height:52px;" src="https://pngedits.com/files/preview/800x800/11617077736hbgvjwa7lwr1euesmxme4wak0bz5uafw1ovnn2cc7iblh4c342uthj7wa0qkdwvppnd8jr4nr7t7rspxhlb5zviaehnymenbdjtu.png" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/wander0842/"><img style="height:52px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" /></a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/channel/UCEW4SAjT_P6Xf-jKti5W_OA"><img style="height:50px;" src="https://www.pngrepo.com/png/13671/512/youtube.png" alt="Youtube"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:anhkhoa24082001@gmail.com"><img style="height:45px;" src="https://1ty.vn/datafiles/3/2019-12-23/Cach-chen-link-vao-hinh-anh-tren-Gmail.jpg" alt="Gmail"/></a>&nbsp;
 </p>
