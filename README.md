@@ -4,11 +4,6 @@
 </p>
   <h3 align="center">My goal is become a <b>Data Engineer 💻</b></h3>
 
-<h2> I am a student of Ho Chi Minh University of Sience 🏫 </h2>
-- 🥅 Goals: Data Engineer <br>
-- 💬 Ask me about anything, I am happy to help :smile: <br>
-- 📬 Contact me: <a href='anhkhoa24082001@gmail.com'>anhkhoa24082001@gmail.com</a>  <br>
-
 <h2> 🧰 Languages: </h2>
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
