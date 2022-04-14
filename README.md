@@ -2,7 +2,6 @@
 <p>
   <h1 align="center">Hello there, I'm Phung Anh Khoa</h1>
 </p>
-  <h3 align="center">My goal is become a <b>Data Engineer 💻</b></h3>
 
 <h2> 🧰 Languages: </h2>
 
